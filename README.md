@@ -1,6 +1,7 @@
 # cisco-catalyst-sdwan-client-async
-Python AsyncIO client for Cisco Catalyst SDWAN 20.6.x 20.9.x 20.12.x
-
+Python AsyncIO client for Cisco Catalyst SDWAN
+- this is a simple Catalyst SDWAN client with minimal dependencies and optimized for performances using AsyncIO
+- tested with Vmanage/Catalyst SDWAN Manager versions 20.6.x 20.9.x and 20.12.x
 
 # Installation
 
